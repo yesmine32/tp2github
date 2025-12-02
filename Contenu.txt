@@ -3,4 +3,8 @@ Partie 1 : Le commencement
 
 Deuxième partie
 Troisième partie
+<<<<<<< HEAD
 Bibliographie
+=======
+Annexe
+>>>>>>> main
